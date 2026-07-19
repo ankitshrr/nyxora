@@ -1,6 +1,7 @@
 {
   "name": "Nyxora Pixel Dark",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#B388FF",
     "foreground": "#E6E6E6",

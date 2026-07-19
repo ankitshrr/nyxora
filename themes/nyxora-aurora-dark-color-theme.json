@@ -1,6 +1,7 @@
 {
   "name": "Nyxora Aurora Dark",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#498FE0",
     "foreground": "#C0C7D6",

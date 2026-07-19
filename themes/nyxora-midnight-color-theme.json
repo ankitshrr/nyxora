@@ -1,6 +1,7 @@
 {
   "name": "Nyxora Midnight",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#5687CC",
     "foreground": "#C5D4ED",

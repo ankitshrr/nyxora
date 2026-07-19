@@ -1,6 +1,7 @@
 {
   "name": "Nyxora Aurora Light",
   "type": "light",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#3478C4",
     "foreground": "#454C59",

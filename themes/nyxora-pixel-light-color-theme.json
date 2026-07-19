@@ -1,6 +1,7 @@
 {
   "name": "Nyxora Pixel Light",
   "type": "light",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#7C5CC4",
     "foreground": "#1E2030",
