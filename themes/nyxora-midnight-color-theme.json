@@ -1,7 +1,6 @@
 {
   "name": "Nyxora Midnight",
   "type": "dark",
-  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#5687CC",
     "foreground": "#C5D4ED",
@@ -473,41 +472,5 @@
         "foreground": "#50648A"
       }
     }
-  ],
-  "semanticTokenColors": {
-    "namespace": "#5C94FF",
-    "namespace.declaration": { "foreground": "#5C94FF", "bold": true },
-    "class": { "foreground": "#FFB86C", "bold": true },
-    "class.declaration": { "foreground": "#FFB86C", "bold": true },
-    "enum": { "foreground": "#FFB86C" },
-    "enumMember": { "foreground": "#F47A83" },
-    "interface": { "foreground": "#5C94FF", "italic": true },
-    "struct": { "foreground": "#FFB86C" },
-    "typeParameter": { "foreground": "#5C94FF", "italic": true },
-    "type": { "foreground": "#FFB86C" },
-    "function": "#5687CC",
-    "function.declaration": { "foreground": "#5687CC" },
-    "method": "#5687CC",
-    "method.declaration": { "foreground": "#5687CC" },
-    "macro": { "foreground": "#5C94FF", "italic": true },
-    "decorator": { "foreground": "#FFB86C", "italic": true },
-    "variable": "#C5D4ED",
-    "variable.readonly": { "foreground": "#F47A83" },
-    "variable.defaultLibrary": { "foreground": "#5C94FF" },
-    "parameter": { "foreground": "#C5D4ED", "italic": true },
-    "property": "#C5D4ED",
-    "property.readonly": { "foreground": "#F47A83" },
-    "property.declaration": { "foreground": "#C5D4ED" },
-    "event": { "foreground": "#5C94FF" },
-    "string": "#65E39C",
-    "number": "#F47A83",
-    "regexp": { "foreground": "#65E39C" },
-    "operator": "#5687CC",
-    "keyword": { "foreground": "#5C94FF", "italic": true },
-    "keyword.control": { "foreground": "#5C94FF", "italic": true },
-    "modifier": { "foreground": "#5C94FF", "italic": true },
-    "comment": { "foreground": "#50648A", "italic": true },
-    "selfKeyword": { "foreground": "#F47A83", "italic": true },
-    "label": "#50648A"
-  }
+  ]
 }

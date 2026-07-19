@@ -1,7 +1,6 @@
 {
   "name": "Nyxora Pixel Light",
   "type": "light",
-  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#7C5CC4",
     "foreground": "#1E2030",
@@ -475,41 +474,5 @@
         "foreground": "#8090A8"
       }
     }
-  ],
-  "semanticTokenColors": {
-    "namespace": "#1A8FA0",
-    "namespace.declaration": { "foreground": "#1A8FA0", "bold": true },
-    "class": { "foreground": "#5B3FA8", "bold": true },
-    "class.declaration": { "foreground": "#5B3FA8", "bold": true },
-    "enum": { "foreground": "#7C5CC4" },
-    "enumMember": { "foreground": "#C49B00" },
-    "interface": { "foreground": "#1A8FA0", "italic": true },
-    "struct": { "foreground": "#7C5CC4" },
-    "typeParameter": { "foreground": "#1A8FA0", "italic": true },
-    "type": { "foreground": "#7C5CC4" },
-    "function": "#1A8FA0",
-    "function.declaration": { "foreground": "#1A8FA0" },
-    "method": "#1A8FA0",
-    "method.declaration": { "foreground": "#1A8FA0" },
-    "macro": { "foreground": "#7C5CC4", "italic": true },
-    "decorator": { "foreground": "#C49B00", "italic": true },
-    "variable": "#1E2030",
-    "variable.readonly": { "foreground": "#9E6CC4" },
-    "variable.defaultLibrary": { "foreground": "#1A8FA0" },
-    "parameter": { "foreground": "#1E2030", "italic": true },
-    "property": "#1E2030",
-    "property.readonly": { "foreground": "#9E6CC4" },
-    "property.declaration": { "foreground": "#1E2030" },
-    "event": { "foreground": "#1A8FA0" },
-    "string": "#1E9E78",
-    "number": "#C49B00",
-    "regexp": { "foreground": "#1E9E78" },
-    "operator": "#8090A8",
-    "keyword": { "foreground": "#7C5CC4", "italic": true },
-    "keyword.control": { "foreground": "#7C5CC4", "italic": true },
-    "modifier": { "foreground": "#7C5CC4", "italic": true },
-    "comment": { "foreground": "#B0BACC", "italic": true },
-    "selfKeyword": { "foreground": "#D94F63", "italic": true },
-    "label": "#8090A8"
-  }
+  ]
 }

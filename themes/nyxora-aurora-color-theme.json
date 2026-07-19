@@ -1,7 +1,6 @@
 {
   "name": "Nyxora Aurora Light",
   "type": "light",
-  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#3478C4",
     "foreground": "#454C59",
@@ -473,41 +472,5 @@
         "foreground": "#8E98A6"
       }
     }
-  ],
-  "semanticTokenColors": {
-    "namespace": "#3478C4",
-    "namespace.declaration": { "foreground": "#3478C4", "bold": true },
-    "class": { "foreground": "#5763B8", "bold": true },
-    "class.declaration": { "foreground": "#5763B8", "bold": true },
-    "enum": { "foreground": "#5763B8" },
-    "enumMember": { "foreground": "#A88536" },
-    "interface": { "foreground": "#3478C4", "italic": true },
-    "struct": { "foreground": "#5763B8" },
-    "typeParameter": { "foreground": "#3478C4", "italic": true },
-    "type": { "foreground": "#5763B8" },
-    "function": "#29856A",
-    "function.declaration": { "foreground": "#29856A" },
-    "method": "#29856A",
-    "method.declaration": { "foreground": "#29856A" },
-    "macro": { "foreground": "#3478C4", "italic": true },
-    "decorator": { "foreground": "#A88536", "italic": true },
-    "variable": "#454C59",
-    "variable.readonly": { "foreground": "#A88536" },
-    "variable.defaultLibrary": { "foreground": "#3478C4" },
-    "parameter": { "foreground": "#454C59", "italic": true },
-    "property": "#454C59",
-    "property.readonly": { "foreground": "#A88536" },
-    "property.declaration": { "foreground": "#454C59" },
-    "event": { "foreground": "#3478C4" },
-    "string": "#A88536",
-    "number": "#3478C4",
-    "regexp": { "foreground": "#29856A" },
-    "operator": "#3478C4",
-    "keyword": { "foreground": "#D47033", "italic": true },
-    "keyword.control": { "foreground": "#D47033", "italic": true },
-    "modifier": { "foreground": "#D47033", "italic": true },
-    "comment": { "foreground": "#8E98A6", "italic": true },
-    "selfKeyword": { "foreground": "#D47033", "italic": true },
-    "label": "#8E98A6"
-  }
+  ]
 }
