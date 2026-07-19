@@ -1,0 +1,64 @@
+{
+  "name": "nyxora-themes",
+  "displayName": "Nyxora Themes",
+  "description": "A premium, modern, minimalist theme collection. Highly readable, low eye strain.",
+  "version": "1.0.0",
+  "publisher": "ankitshrr",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "modern",
+    "minimalist",
+    "nyxora"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0B1220",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nyxora Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxora-midnight-color-theme.json"
+      },
+      {
+        "label": "Nyxora Aurora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxora-aurora-dark-color-theme.json"
+      },
+      {
+        "label": "Nyxora Aurora Light",
+        "uiTheme": "vs",
+        "path": "./themes/nyxora-aurora-color-theme.json"
+      },
+      {
+        "label": "Nyxora Pixel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyxora-pixel-dark-color-theme.json"
+      },
+      {
+        "label": "Nyxora Pixel Light",
+        "uiTheme": "vs",
+        "path": "./themes/nyxora-pixel-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankitshrr/nyxora-themes"
+  },
+  "homepage": "https://github.com/ankitshrr/nyxora-themes#readme",
+  "bugs": {
+    "url": "https://github.com/ankitshrr/nyxora-themes/issues"
+  },
+  "license": "MIT"
+}
