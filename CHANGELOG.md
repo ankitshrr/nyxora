@@ -2,6 +2,12 @@
 
 All notable changes to the "nyxora-themes" extension will be documented in this file.
 
+## [1.0.1] - 2026-07-21
+
+### Fixed
+- Fixed icon and screenshot image links in README for VS Code Marketplace display.
+- Fixed repository, homepage, and issue tracker URLs in extension metadata.
+
 ## [1.0.0] - 2026-07-19 — Initial Release
 
 ### Added
