@@ -2,7 +2,7 @@
 
 All notable changes to the "nyxora-themes" extension will be documented in this file.
 
-## [1.0.0] - 2026-07-19 — Initial Release
+## [1.0.0] - 2026-07-22 — Initial Release
 
 ### Added
 - **Nyxora Midnight** — flagship dark theme with deep blue-black tones
