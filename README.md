@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="Nyxora Themes Icon" />
+  <img src="./icon.png" width="128" alt="Nyxora Themes Icon" />
 </p>
 
 <h1 align="center">Nyxora Themes</h1>
@@ -20,27 +20,27 @@
 ## Themes
 
 ### 🌑 Nyxora Midnight
-![Nyxora Midnight](screenshots/nyxora-midnight.png)
+![Nyxora Midnight](./screenshots/nyxora-midnight.png)
 
 ---
 
 ### 🌸 Nyxora Aurora Light
-![Nyxora Aurora Light](screenshots/nyxora-aurora-light.png)
+![Nyxora Aurora Light](./screenshots/nyxora-aurora-light.png)
 
 ---
 
 ### 🌿 Nyxora Aurora Dark
-![Nyxora Aurora Dark](screenshots/nyxora-aurora-dark.png)
+![Nyxora Aurora Dark](./screenshots/nyxora-aurora-dark.png)
 
 ---
 
 ### 👾 Nyxora Pixel Dark
-![Nyxora Pixel Dark](screenshots/nyxora-pixel-dark.png)
+![Nyxora Pixel Dark](./screenshots/nyxora-pixel-dark.png)
 
 ---
 
 ### 🕹️ Nyxora Pixel Light
-![Nyxora Pixel Light](screenshots/nyxora-pixel-light.png)
+![Nyxora Pixel Light](./screenshots/nyxora-pixel-light.png)
 
 ---
 
