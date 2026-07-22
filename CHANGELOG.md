@@ -1,6 +1,13 @@
 # Changelog
 
-All notable changes to the "nyxora-themes" extension will be documented in this file.
+All notable changes to the "Nyxora" extension will be documented in this file.
+
+## [1.0.1] - 2026-07-22 — Patch Release
+
+### Changed
+- Updated extension branding, display name, and package name to **Nyxora**.
+- Updated high-resolution extension icon (`icon.png`).
+- Refined documentation and marketplace installation steps.
 
 ## [1.0.0] - 2026-07-22 — Initial Release
 

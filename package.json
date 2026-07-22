@@ -2,7 +2,7 @@
   "name": "nyxora",
   "displayName": "Nyxora",
   "description": "A premium, modern, minimalist theme collection. Highly readable, low eye strain.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ankitshrr",
   "engines": {
     "vscode": "^1.70.0"
