@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./icon.png" width="128" alt="Nyxora Themes Icon" />
+  <img src="./icon.png" width="128" alt="Nyxora Icon" />
 </p>
 
-<h1 align="center">Nyxora Themes</h1>
+<h1 align="center">Nyxora</h1>
 
 <p align="center">
   A premium, modern, minimalist theme collection for Visual Studio Code.<br/>
@@ -59,7 +59,7 @@
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Nyxora Themes`**.
+2. Search for **`Nyxora`**.
 3. Click **Install**.
 4. Click **Reload** to reload your editor.
 5. `Code > Preferences > Color Theme` → select any **Nyxora** variant.
