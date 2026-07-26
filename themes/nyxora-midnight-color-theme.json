@@ -333,7 +333,7 @@
     "event": "#F29668",
     "function": "#FFB86C",
     "method": "#FFB86C",
-    "macro": "#F29668",
+    "macro": "#FFB86C",
     "comment": "#50648A",
     "string": "#65E39C",
     "keyword": "#5C94FF",
@@ -347,7 +347,11 @@
     "namespace": "#82D9FF",
     "decorator": "#F29668",
     "typeParameter": "#82D9FF",
-    "label": "#5C94FF"
+    "label": "#5C94FF",
+    "variable.constant": "#F47A83",
+    "variable.defaultLibrary": "#82D9FF",
+    "parameter.label:dart": "#5C94FF",
+    "property:dart": "#F47A83"
   },
   "tokenColors": [
     {
@@ -837,6 +841,129 @@
       ],
       "settings": {
         "foreground": "#50648A"
+      }
+    },
+    {
+      "name": "Python special parameters (self, cls)",
+      "scope": [
+        "variable.parameter.function.language.special.self.python",
+        "variable.parameter.function.language.special.cls.python"
+      ],
+      "settings": {
+        "foreground": "#F47A83",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Python magic variables",
+      "scope": "support.variable.magic.python",
+      "settings": {
+        "foreground": "#5C94FF"
+      }
+    },
+    {
+      "name": "JS/TS Console & DOM",
+      "scope": [
+        "support.type.object.console",
+        "support.type.object.dom"
+      ],
+      "settings": {
+        "foreground": "#82D9FF"
+      }
+    },
+    {
+      "name": "JS/TS console function",
+      "scope": [
+        "support.function.console"
+      ],
+      "settings": {
+        "foreground": "#FFB86C"
+      }
+    },
+    {
+      "name": "JS/TS Template Literals (Interpolation)",
+      "scope": [
+        "keyword.other.template.begin",
+        "keyword.other.template.end",
+        "keyword.other.substitution.begin",
+        "keyword.other.substitution.end",
+        "punctuation.definition.template-expression"
+      ],
+      "settings": {
+        "foreground": "#5C94FF"
+      }
+    },
+    {
+      "name": "Operator logic/bitwise",
+      "scope": [
+        "keyword.operator.logical",
+        "keyword.operator.bitwise",
+        "keyword.operator.comparison"
+      ],
+      "settings": {
+        "foreground": "#95E6CB"
+      }
+    },
+    {
+      "name": "Rust lifetimes",
+      "scope": [
+        "entity.name.lifetime.rust",
+        "storage.modifier.lifetime.rust"
+      ],
+      "settings": {
+        "foreground": "#FFB86C",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Diff Inserted",
+      "scope": [
+        "markup.inserted.diff",
+        "markup.inserted"
+      ],
+      "settings": {
+        "foreground": "#65E39C"
+      }
+    },
+    {
+      "name": "Diff Deleted",
+      "scope": [
+        "markup.deleted.diff",
+        "markup.deleted"
+      ],
+      "settings": {
+        "foreground": "#F47A83"
+      }
+    },
+    {
+      "name": "Diff Changed",
+      "scope": [
+        "markup.changed.diff",
+        "markup.changed"
+      ],
+      "settings": {
+        "foreground": "#FFB86C"
+      }
+    },
+    {
+      "name": "Markdown inline raw code",
+      "scope": [
+        "markup.inline.raw.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#65E39C"
+      }
+    },
+    {
+      "name": "Markdown links and definitions",
+      "scope": [
+        "punctuation.definition.metadata.markdown",
+        "string.other.link.title.markdown",
+        "string.other.link.description.markdown"
+      ],
+      "settings": {
+        "foreground": "#5C94FF"
       }
     }
   ]
