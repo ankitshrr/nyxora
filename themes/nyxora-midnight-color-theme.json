@@ -316,19 +316,19 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "class": "#77CAF5",
-    "class.defaultLibrary": "#77CAF5",
-    "enum": "#77CAF5",
-    "enum.defaultLibrary": "#77CAF5",
-    "interface": "#77CAF5",
+    "class": "#E5C07B",
+    "class.defaultLibrary": "#E5C07B",
+    "enum": "#E5C07B",
+    "enum.defaultLibrary": "#E5C07B",
+    "interface": "#E5C07B",
     "interface.defaultLibrary": {
-      "foreground": "#77CAF5",
+      "foreground": "#E5C07B",
       "italic": true
     },
-    "struct": "#77CAF5",
-    "struct.defaultLibrary": "#77CAF5",
-    "type": "#77CAF5",
-    "type.defaultLibrary": "#77CAF5",
+    "struct": "#E5C07B",
+    "struct.defaultLibrary": "#E5C07B",
+    "type": "#E5C07B",
+    "type.defaultLibrary": "#E5C07B",
     "enumMember": "#C2A3F0",
     "event": "#F29668",
     "function": "#F2AE72",
@@ -344,12 +344,12 @@
     "variable.readonly": "#A4B5D6",
     "parameter": "#94A6C9",
     "property": "#E87C84",
-    "namespace": "#77CAF5",
+    "namespace": "#E5C07B",
     "decorator": "#F29668",
-    "typeParameter": "#77CAF5",
+    "typeParameter": "#E5C07B",
     "label": "#6B99FA",
     "variable.constant": "#E87C84",
-    "variable.defaultLibrary": "#77CAF5",
+    "variable.defaultLibrary": "#E5C07B",
     "parameter.label:dart": "#6B99FA",
     "property:dart": "#E87C84"
   },
@@ -566,7 +566,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -575,7 +575,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -584,7 +584,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -593,7 +593,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -622,7 +622,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -683,7 +683,7 @@
         "entity.name.package"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -692,7 +692,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -701,7 +701,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -724,7 +724,7 @@
         "source.c storage.type"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -821,7 +821,7 @@
         "markup.changed"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -868,7 +868,7 @@
         "support.type.object.dom"
       ],
       "settings": {
-        "foreground": "#77CAF5"
+        "foreground": "#E5C07B"
       }
     },
     {
